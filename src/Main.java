@@ -3,4 +3,3 @@ public class Main {
         System.out.printf("Hello world!");
         }
     }
-}
